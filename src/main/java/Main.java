@@ -7,8 +7,28 @@ public class Main {
     private static final int HALF = SIZE / 2;
 
     public static void main(String[] args) {
+        startTimer();
         withConcurrency();
         withoutConcurrency();
+    }
+
+    private static void startTimer(){
+        Thread timer = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                int seconds =0;
+                try {
+                    while (true){
+                        System.out.println(seconds++);
+                        Thread.sleep(1000);
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        timer.setDaemon(true);
+        timer.start();
     }
 
     private static void withoutConcurrency() {
