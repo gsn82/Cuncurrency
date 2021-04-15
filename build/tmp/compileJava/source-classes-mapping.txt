@@ -1,0 +1,31 @@
+Main.java
+ Main
+ Main$1
+ Main$2
+Counter.java
+ Counter
+Main2.java
+ Main2
+ Main2$1
+Main3.java
+ Main3
+ Main3$1
+ Main3$2
+ Main3$3
+lesson86/Main.java
+ lesson86.Main
+ lesson86.Main$1
+ lesson86.Main$2
+ lesson86.Main$3
+ lesson86.Main$4
+lesson87/Main.java
+ lesson87.Main
+ lesson87.Main$1
+ lesson87.Main$2
+lesson87/BlockingQueue.java
+ lesson87.BlockingQueue
+lesson87/HomeWork/Main.java
+ lesson87.HomeWork.Main
+ lesson87.HomeWork.Main$1
+ lesson87.HomeWork.Main$2
+ lesson87.HomeWork.Main$3
