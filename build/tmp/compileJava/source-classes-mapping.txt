@@ -29,3 +29,28 @@ lesson87/HomeWork/Main.java
  lesson87.HomeWork.Main$1
  lesson87.HomeWork.Main$2
  lesson87.HomeWork.Main$3
+lesson90/Main.java
+ lesson90.Main
+ lesson90.Main$1
+ lesson90.Main$2
+lesson90/Account.java
+ lesson90.Account
+lesson90/HomeWork/MFP.java
+ lesson90.HomeWork.MFP
+lesson90/HomeWork/Main.java
+ lesson90.HomeWork.Main
+ lesson90.HomeWork.Main$1
+ lesson90.HomeWork.Main$2
+lesson92/Main.java
+ lesson92.Main
+ lesson92.Main$1
+ lesson92.Main$2
+Lesson96/Main.java
+ Lesson96.Main
+ Lesson96.Main$1
+Lesson96/Main2.java
+ Lesson96.Main2
+ Lesson96.Main2$1
+Lesson96/Main3.java
+ Lesson96.Main3
+ Lesson96.Main3$1
